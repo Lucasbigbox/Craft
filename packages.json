@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "EpiCraft",
+      "name" : "EpiCraft",
+      "version" : "1.0",
+      "location" : "epicraft.json",
+      "priority" : 0
+    }
+  ]
+}
